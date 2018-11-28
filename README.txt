@@ -1,3 +1,3 @@
-ÔÚ´Ë´¦Ê¹ÓÃÃüÁîÐÐÊäÈëÃüÁî  ./mainUI.exe
-½øÈëºóÊäÈë1,2,3Ñ¡Ôñ±àÂë
-author Î¤ÐÂèò
+åœ¨æ­¤å¤„ä½¿ç”¨å‘½ä»¤è¡Œè¾“å…¥å‘½ä»¤  ./mainUI.exe
+è¿›å…¥åŽè¾“å…¥1,2,3é€‰æ‹©ç¼–ç 
+author éŸ¦æ–°æ © UESTC
